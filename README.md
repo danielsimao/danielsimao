@@ -13,10 +13,7 @@ Hi I'm Daniel Simao and I'm a fullstack developer.
 [![vscode Badge](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code)](#) 
 [![vercel Badge](https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white")](#)
 
-<!--
-**danielsimao/danielsimao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on https://github.com/danielsimao/ibesgueira.org
 - 📫 How to reach me: rui.daniel.simao@gmail.com
 - 😄 Pronouns: danielgringo
--->
