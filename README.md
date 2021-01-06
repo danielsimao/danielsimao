@@ -17,3 +17,7 @@ Hi I'm Daniel Simao and I'm a fullstack developer.
 - 🔭 I’m currently working on https://github.com/danielsimao/ibesgueira.org
 - 📫 How to reach me: rui.daniel.simao@gmail.com
 - 😄 Pronouns: danielgringo
+
+
+![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
+
