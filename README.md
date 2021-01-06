@@ -19,5 +19,5 @@ Hi I'm Daniel Simao and I'm a fullstack developer.
 - 😄 Pronouns: danielgringo
 
 
-![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
+![Metrics](https://github.com/danielsimao/danielsimao/blob/master/github-metrics.svg)
 
