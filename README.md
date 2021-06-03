@@ -1,6 +1,6 @@
 ### Hi I'm Daniel Simão 👋
 
-Hi I'm Daniel Simao and I'm a fullstack developer.
+Hi I'm Daniel Simao and I'm a fullstack developer based in Porto.
 
 #### Top Technologies & Tools
 
