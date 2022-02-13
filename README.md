@@ -1,6 +1,6 @@
 ### Hi I'm Daniel Simão 👋
 
-Hi I'm Daniel Simao and I'm a fullstack developer based in Porto.
+I'm a fullstack developer based in Porto, Portugal.
 
 #### Top Technologies & Tools
 
@@ -18,3 +18,10 @@ Hi I'm Daniel Simao and I'm a fullstack developer based in Porto.
 [![vercel Badge](https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white")](#)
 [![git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#) 
 [![node.js Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)](#) 
+
+#### Learning
+
+[![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)](#)
+[![Hardhat](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)](#)
+
+
