@@ -22,6 +22,4 @@ I'm a fullstack developer based in Porto, Portugal.
 #### Learning
 
 [![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)](#)
-[![Hardhat](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)](#)
-
 
