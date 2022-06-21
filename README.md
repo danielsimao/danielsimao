@@ -1,6 +1,6 @@
 ### Hi I'm Daniel Simão 👋
 
-I'm a fullstack developer based in Porto, Portugal. I'm very passionate about building UI from scratch and creating amazing UX experiences. I have been enjoying digging into a handful of UI libraries, learn from them and give my contribution.
+I'm a fullstack developer based in Porto, Portugal. I'm very passionate about building UI from scratch and creating amazing UX experiences. Furthermore, I have been enjoying digging into a handful of UI libraries, learn from them as well as give my contribution.
 
 #### Top Technologies & Tools
 
