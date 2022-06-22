@@ -1,8 +1,8 @@
-### Hi I'm Daniel Simão 👋
+## Hi I'm Daniel Simão 👋
 
 I'm a fullstack developer based in Porto, Portugal. I'm very passionate about building UI from scratch and creating amazing UX experiences. Furthermore, I have been enjoying digging into a handful of UI libraries, learn from them as well as give my contribution.
 
-#### Top Technologies & Tools
+## Top Technologies & Tools
 
 [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#) 
 [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](#)
@@ -27,7 +27,7 @@ I'm a fullstack developer based in Porto, Portugal. I'm very passionate about bu
 [![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)](#)
 [![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)](#)
 
-#### Learning
+## Learning
 
 [![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)](#)
 
