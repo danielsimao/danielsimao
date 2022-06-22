@@ -30,3 +30,8 @@ I'm a fullstack developer based in Porto, Portugal. I'm very passionate about bu
 
 [![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)](#)
 
+## Socials
+
+<a href="https://www.linkedin.com/in/ruidanielsimao/" alt="linkedin">[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#)</a>
+
+
